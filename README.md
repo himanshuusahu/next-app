@@ -9,13 +9,11 @@ Installation
 To get started with this project, follow these steps:
 
 Clone the Repository:
-
-
 git clone https://github.com/himanshuusahu/next-app.git
 cd next-app
+
 Install Dependencies:
-
 npm install
-Run the Development Server:
 
+Run the Development Server:
 npm run dev
